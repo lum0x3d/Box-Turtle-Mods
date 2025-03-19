@@ -1,6 +1,6 @@
 # BOM:
 - 6x M3x12
-- 6x T-nuts (Roll-in preferred)
+- 6x M3 T-nuts
 - 16 6x3mm N52 Magnets
 
 # Printing and Assembly
